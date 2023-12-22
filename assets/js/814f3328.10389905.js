@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmega_dawg_68=self.webpackChunkmega_dawg_68||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Welcome to my blog","permalink":"/Website/blog/welcome-docusaurus-v2","unlisted":false}]}')}}]);
