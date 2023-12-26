@@ -8,15 +8,15 @@
     <subtitle>MEGA-Dawg68s Website Blog</subtitle>
     <icon>https://mega-dawg68.github.io/Website/img/favicon.ico</icon>
     <entry>
-        <title type="html"><![CDATA[How to Bypass Administrator Rights on Windows 10, 11]]></title>
-        <id>https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How to hack school computer</id>
-        <link href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How to hack school computer"/>
+        <title type="html"><![CDATA[How to bypass Admin Rights on a school computer]]></title>
+        <id>https://mega-dawg68.github.io/Website/blog/Hacker</id>
+        <link href="https://mega-dawg68.github.io/Website/blog/Hacker"/>
         <updated>2023-12-24T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Hello! Today we shall be gaining administrator rights without]]></summary>
+        <summary type="html"><![CDATA[How to hack a school computer and gain administrator rights]]></summary>
         <content type="html"><![CDATA[<p>Hello! Today we shall be gaining administrator rights without
 requiring any passwords from current admins. This took me years
 to finally perfect and get working.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="quick-disclaimer">Quick Disclaimer<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#quick-disclaimer" class="hash-link" aria-label="Direct link to Quick Disclaimer" title="Direct link to Quick Disclaimer">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="quick-disclaimer">Quick Disclaimer<a href="https://mega-dawg68.github.io/Website/blog/Hacker#quick-disclaimer" class="hash-link" aria-label="Direct link to Quick Disclaimer" title="Direct link to Quick Disclaimer">​</a></h2>
 <p>The way my school gives devices out is that my parents pay <strong>$1400</strong>
 for a Microsoft Surface Go 2. You could buy a Go <strong>3</strong> for $800!
 They also install all of the school rubbish on top of it. We don't
@@ -26,7 +26,7 @@ for free, then I can't exactly put my support behind you, but I'm
 not going to stop you. However, one major thing I want to say is
 <em><strong>I DO NOT TAKE ANY RESPONSIBILITY FOR YOUR ACTIONS</strong></em>
 With that out of the way, lets begin!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prerequisites">Prerequisites<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#prerequisites" class="hash-link" aria-label="Direct link to Prerequisites" title="Direct link to Prerequisites">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="prerequisites">Prerequisites<a href="https://mega-dawg68.github.io/Website/blog/Hacker#prerequisites" class="hash-link" aria-label="Direct link to Prerequisites" title="Direct link to Prerequisites">​</a></h2>
 <ul>
 <li>Another computer (With Admin Rights)</li>
 <li>An usb stick</li>
@@ -34,13 +34,13 @@ With that out of the way, lets begin!</p>
 <li>An unlocked BIOS/UEFI (Will explain later)</li>
 <li>Sticky Keys is turned on (Press shift five times)</li>
 </ul>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="lets-start">Lets Start!<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#lets-start" class="hash-link" aria-label="Direct link to Lets Start!" title="Direct link to Lets Start!">​</a></h2>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="windows">Windows<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#windows" class="hash-link" aria-label="Direct link to Windows" title="Direct link to Windows">​</a></h3>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="lets-start">Lets Start!<a href="https://mega-dawg68.github.io/Website/blog/Hacker#lets-start" class="hash-link" aria-label="Direct link to Lets Start!" title="Direct link to Lets Start!">​</a></h2>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="if-your-own-computer-has-windows">If your own computer has Windows<a href="https://mega-dawg68.github.io/Website/blog/Hacker#if-your-own-computer-has-windows" class="hash-link" aria-label="Direct link to If your own computer has Windows" title="Direct link to If your own computer has Windows">​</a></h3>
 <p>To begin, we are going to need the usb and the other computer, launch
 a web browser of your choice on the other computer and head to <a href="https://www.system-rescue.org/Download/" target="_blank" rel="noopener noreferrer">https://www.system-rescue.org/Download/</a>
 click on the blue text that says .iso at the end either Source Forge
 or Fastly. When it has downloaded we need a tool to put the .iso file
-on the usb. Head to <a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/rufus.ie">rufus.ie</a>, scroll down to downloads and click
+on the usb. Head to <a href="https://mega-dawg68.github.io/Website/blog/rufus.ie">rufus.ie</a>, scroll down to downloads and click
 on the first .exe you see <img loading="lazy" alt="rufus download" src="https://mega-dawg68.github.io/Website/assets/images/rufus-web-aaec6b37d1241f445b9ab3738181ffc0.png" width="1920" height="1080" class="img_ev3q">
 once that is downloaded, insert the flash drive and open rufus, it should
 look like this <img loading="lazy" alt="rufus open" src="https://mega-dawg68.github.io/Website/assets/images/rufus-open-246a87bef6fde40497893cbacadd15d5.png" width="473" height="538" class="img_ev3q">
@@ -48,7 +48,7 @@ click on the select button and find the .iso file we downloaded before
 your rufus should look like this <img loading="lazy" alt="rufus open" src="https://mega-dawg68.github.io/Website/assets/images/rufus-full-9b973093443d20058420f5ce6cd081dc.png" width="562" height="752" class="img_ev3q"></p>
 <p>If you get a pop up that says write in iso mode or dd mode, choose
 iso mode. once that has finished, continue onto bitlocker!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="mac-os">Mac OS<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#mac-os" class="hash-link" aria-label="Direct link to Mac OS" title="Direct link to Mac OS">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="if-your-own-computer-has-mac-os">If your own computer has Mac OS<a href="https://mega-dawg68.github.io/Website/blog/Hacker#if-your-own-computer-has-mac-os" class="hash-link" aria-label="Direct link to If your own computer has Mac OS" title="Direct link to If your own computer has Mac OS">​</a></h3>
 <p>To begin, we are going to need the usb and the other computer, launch
 a web browser of your choice on the other computer and head to <a href="https://www.system-rescue.org/Download/" target="_blank" rel="noopener noreferrer">https://www.system-rescue.org/Download/</a>
 click on the blue text that says .iso at the end either Source Forge
@@ -61,11 +61,11 @@ this <img loading="lazy" alt="Balena open" src="https://mega-dawg68.github.io/We
 click on the flash from file
 button and find the .iso file we downloaded before, select target and
 flash! once that has finished, continue onto bitlocker!</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="linux">Linux<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#linux" class="hash-link" aria-label="Direct link to Linux" title="Direct link to Linux">​</a></h3>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="if-your-own-computer-has-linux">If your own computer has Linux<a href="https://mega-dawg68.github.io/Website/blog/Hacker#if-your-own-computer-has-linux" class="hash-link" aria-label="Direct link to If your own computer has Linux" title="Direct link to If your own computer has Linux">​</a></h3>
 <p>You can follow the steps for Mac OS, except download the linux variant
 Im sorry but I could get any photos, I am a linux guy as well but my
 distro (Zorin OS) is broken.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bitlocker">Bitlocker<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#bitlocker" class="hash-link" aria-label="Direct link to Bitlocker" title="Direct link to Bitlocker">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="bitlocker">Bitlocker<a href="https://mega-dawg68.github.io/Website/blog/Hacker#bitlocker" class="hash-link" aria-label="Direct link to Bitlocker" title="Direct link to Bitlocker">​</a></h2>
 <p>To tell if you have bitlocker, go to file explorer and press This PC
 if you have a lock on the C: Drive, you have bitlocker and need to follow
 these steps. If you do not have bitlocker, skip this step
@@ -85,7 +85,7 @@ now press view bitlocker keys and press show recovery key,
 <strong>Write this down, you will not be able to proceed without it</strong>.
 If you see two operating system drives, write down both. Alright you can
 proceed to the next section!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="disabling-secure-boot">Disabling Secure Boot<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#disabling-secure-boot" class="hash-link" aria-label="Direct link to Disabling Secure Boot" title="Direct link to Disabling Secure Boot">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="disabling-secure-boot">Disabling Secure Boot<a href="https://mega-dawg68.github.io/Website/blog/Hacker#disabling-secure-boot" class="hash-link" aria-label="Direct link to Disabling Secure Boot" title="Direct link to Disabling Secure Boot">​</a></h2>
 <p>(If your device does not support secure boot you can skip this step)
 To boot System Rescue, we are going to need to disable secure boot
 this step varies between devices, I have knowledge on Surface devices
@@ -102,7 +102,7 @@ like this
 <img loading="lazy" alt="Bitlocker Recovery" src="https://mega-dawg68.github.io/Website/assets/images/Bitlocker-recovery-b5044fd4bb66c88360a6c1288c47b3c9.jpg" width="4080" height="2296" class="img_ev3q">
 enter in the key you copied down before, it should be correct and it should
 continue and you should end up back in Windows, login</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="booting-system-rescue">Booting System Rescue<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#booting-system-rescue" class="hash-link" aria-label="Direct link to Booting System Rescue" title="Direct link to Booting System Rescue">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="booting-system-rescue">Booting System Rescue<a href="https://mega-dawg68.github.io/Website/blog/Hacker#booting-system-rescue" class="hash-link" aria-label="Direct link to Booting System Rescue" title="Direct link to Booting System Rescue">​</a></h2>
 <p>hold shift and press restart, you should end up back in that menu from
 before, we want to press Use a device, you should see EFI USB Device,
 select that, your computer should reboot and end up on a screen like
@@ -114,7 +114,7 @@ We now want to type 'startx' (Without the quotes). you should end up seeing
 a blue mouse in the middle of the screen. You have successfully booted
 System Rescue
 <strong>Tip: open this article in system rescue with firefox, you will need to connect to the internet</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="removing-bitlocker">Removing Bitlocker<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#removing-bitlocker" class="hash-link" aria-label="Direct link to Removing Bitlocker" title="Direct link to Removing Bitlocker">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="removing-bitlocker">Removing Bitlocker<a href="https://mega-dawg68.github.io/Website/blog/Hacker#removing-bitlocker" class="hash-link" aria-label="Direct link to Removing Bitlocker" title="Direct link to Removing Bitlocker">​</a></h2>
 <p>If you did not have bitlocker, you may skip this step
 Alright to start,
 Open up a terminal window (the little $_ icon)
@@ -140,7 +140,7 @@ We now want to run another command, this one will allow us to change files on ou
 Ff you have entered the command in correctly you should not get any errors
 Congratulations you have successfully removed bitlocker! You move onto the next
 section.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="setting-up-the-system-to-gain-administrator-rights">Setting up the system to gain administrator rights<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#setting-up-the-system-to-gain-administrator-rights" class="hash-link" aria-label="Direct link to Setting up the system to gain administrator rights" title="Direct link to Setting up the system to gain administrator rights">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="setting-up-the-system-to-gain-administrator-rights">Setting up the system to gain administrator rights<a href="https://mega-dawg68.github.io/Website/blog/Hacker#setting-up-the-system-to-gain-administrator-rights" class="hash-link" aria-label="Direct link to Setting up the system to gain administrator rights" title="Direct link to Setting up the system to gain administrator rights">​</a></h2>
 <p><em><strong>THIS IS YOUR LAST CHANCE TO PULL OUT NOW. IF YOU CONTINUE NOW AND YOU BREAK SOMETHING, YOU WILL HAVE TO EXPLAIN IT TO YOUR I.T DEPARTMENT</strong></em>
 If you want to pull out, you can go to the X in the corner and press log out and restart. Do not forget to turn secure boot back on
 If you want to continue, then lets keep going
@@ -153,7 +153,7 @@ still see cmd.exe) and go to system32 again and now find another file named <cod
 you want to rename that to sethc2.exe, now go to the cmd.exe and rename that to sethc.exe,
 now paste the cmd.exe you copied before. Now you should see cmd.exe appear. If have done this
 correct, then you should now be ready for the next section!</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gaining-admin-rights">Gaining Admin rights<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#gaining-admin-rights" class="hash-link" aria-label="Direct link to Gaining Admin rights" title="Direct link to Gaining Admin rights">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="gaining-admin-rights">Gaining Admin rights<a href="https://mega-dawg68.github.io/Website/blog/Hacker#gaining-admin-rights" class="hash-link" aria-label="Direct link to Gaining Admin rights" title="Direct link to Gaining Admin rights">​</a></h2>
 <p>You are nearly done! If you have followed this far, it is safe to brag to your friends
 that you are a master hacker. Lets begin the final steps! If you have completed last step
 successfully, you should be on your lock screen, you now want to spam the shift button on
@@ -173,17 +173,23 @@ Now on the lock screen, you should see an account called administrator, log into
 If you don't see the account. go into other users and type for the username:
 administrator (<strong>Must be spelled correctly</strong>) and whatever password you set
 <strong>Now you are done!</strong></p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-can-you-do-now">What can you do now?<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#what-can-you-do-now" class="hash-link" aria-label="Direct link to What can you do now?" title="Direct link to What can you do now?">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="what-can-you-do-now">What can you do now?<a href="https://mega-dawg68.github.io/Website/blog/Hacker#what-can-you-do-now" class="hash-link" aria-label="Direct link to What can you do now?" title="Direct link to What can you do now?">​</a></h2>
 <p>You can do whatever you like! You now control the computer. Somethings I recommend are to
 set your school account to administrator in settings and users. Use that account instead as
 using administrator might cause suspision as you login in front of teachers and snitches.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="congratulations">Congratulations!<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#congratulations" class="hash-link" aria-label="Direct link to Congratulations!" title="Direct link to Congratulations!">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="congratulations">Congratulations!<a href="https://mega-dawg68.github.io/Website/blog/Hacker#congratulations" class="hash-link" aria-label="Direct link to Congratulations!" title="Direct link to Congratulations!">​</a></h2>
 <p>You are now a hacker! You have bypassed the school I.T! Impressive achievement may I say!
 Go brag to your friends, share them this article so they can do this as well, and maybe
 the school will realise that installing school rubbish isn't a good idea.</p>
-<h2 class="anchor anchorWithStickyNavbar_LWe7" id="thanks-for-reading-my-blog-post">Thanks for reading my blog post<a href="https://mega-dawg68.github.io/Website/blog/2023/12/24/Gaining-Admin-rights-on-windows-10-and-11/How%20to%20hack%20school%20computer#thanks-for-reading-my-blog-post" class="hash-link" aria-label="Direct link to Thanks for reading my blog post" title="Direct link to Thanks for reading my blog post">​</a></h2>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="thanks-for-reading-my-blog-post">Thanks for reading my blog post<a href="https://mega-dawg68.github.io/Website/blog/Hacker#thanks-for-reading-my-blog-post" class="hash-link" aria-label="Direct link to Thanks for reading my blog post" title="Direct link to Thanks for reading my blog post">​</a></h2>
 <p>This took a long time to make, and you reading it justifies me making more hacking blog posts.
 And with that, I bid you a farewell!</p>]]></content>
+        <author>
+            <name>MEGA-Dawg68</name>
+            <uri>https://github.com/MEGA-Dawg68</uri>
+        </author>
+        <category label="Hacking" term="Hacking"/>
+        <category label="Admin" term="Admin"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[Welcome to my blog]]></title>

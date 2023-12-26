@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmega_dawg_68=self.webpackChunkmega_dawg_68||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"How to bypass Admin Rights on a school computer","permalink":"/Website/blog/Hacker","unlisted":false},{"title":"Welcome to my blog","permalink":"/Website/blog/welcome-docusaurus-v2","unlisted":false}]}')}}]);

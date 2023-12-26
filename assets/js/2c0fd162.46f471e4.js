@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmega_dawg_68=self.webpackChunkmega_dawg_68||[]).push([[540],{2542:e=>{e.exports=JSON.parse('{"permalink":"/Website/blog/tags/admin","page":1,"postsPerPage":1,"totalPages":1,"totalCount":1,"blogDescription":"My Blog!","blogTitle":"MEGA-Dawg68s blog!"}')}}]);

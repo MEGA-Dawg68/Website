@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmega_dawg_68=self.webpackChunkmega_dawg_68||[]).push([[434],{7886:e=>{e.exports=JSON.parse('{"label":"Admin","permalink":"/Website/blog/tags/admin","allTagsPath":"/Website/blog/tags","count":1,"unlisted":false}')}}]);
