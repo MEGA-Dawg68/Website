@@ -4,10 +4,23 @@
         <title>MEGA-Dawg68s Website Blog</title>
         <link>https://mega-dawg68.github.io/Website/blog</link>
         <description>MEGA-Dawg68s Website Blog</description>
-        <lastBuildDate>Sun, 24 Dec 2023 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
+        <item>
+            <title><![CDATA[Someone tried to vandalise my blog]]></title>
+            <link>https://mega-dawg68.github.io/Website/blog/vandalism-on-my-blog</link>
+            <guid>https://mega-dawg68.github.io/Website/blog/vandalism-on-my-blog</guid>
+            <pubDate>Sat, 30 Dec 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[How I stopped a person from vandalising my blog]]></description>
+            <content:encoded><![CDATA[<p>Well, if you are reading this, you probably know that I have a blog.
+I have a blog because I like to write about things that are tech based.
+There was someone who tried to push a commit that changed my <a href="https://mega-dawg68.github.io/Website/blog/Hacker" target="_blank" rel="noopener noreferrer">Gaining Admin rights on Windows 10 and 11</a>
+post to this 'penis'. Obsiously I closed the commit. So now the repository with the actual source is private and I changed what the button does. Go press it and find out. Why would you go to the effort of trying to make a push that would have deleted days of work (Years if you count finding this exploit) so please just don't vandalise. Anyway, that was all I wanted to say. Goodbye!</p>]]></content:encoded>
+            <category>Update</category>
+            <category>vandalism</category>
+        </item>
         <item>
             <title><![CDATA[How to bypass Admin Rights on a school computer]]></title>
             <link>https://mega-dawg68.github.io/Website/blog/Hacker</link>

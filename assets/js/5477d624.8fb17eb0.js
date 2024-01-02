@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmega_dawg_68=self.webpackChunkmega_dawg_68||[]).push([[456],{3322:a=>{a.exports=JSON.parse('{"label":"vandalism","permalink":"/Website/blog/tags/vandalism","allTagsPath":"/Website/blog/tags","count":1,"unlisted":false}')}}]);

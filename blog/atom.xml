@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://mega-dawg68.github.io/Website/blog</id>
     <title>MEGA-Dawg68s Website Blog</title>
-    <updated>2023-12-24T00:00:00.000Z</updated>
+    <updated>2023-12-30T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://mega-dawg68.github.io/Website/blog"/>
     <subtitle>MEGA-Dawg68s Website Blog</subtitle>
     <icon>https://mega-dawg68.github.io/Website/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Someone tried to vandalise my blog]]></title>
+        <id>https://mega-dawg68.github.io/Website/blog/vandalism-on-my-blog</id>
+        <link href="https://mega-dawg68.github.io/Website/blog/vandalism-on-my-blog"/>
+        <updated>2023-12-30T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[How I stopped a person from vandalising my blog]]></summary>
+        <content type="html"><![CDATA[<p>Well, if you are reading this, you probably know that I have a blog.
+I have a blog because I like to write about things that are tech based.
+There was someone who tried to push a commit that changed my <a href="https://mega-dawg68.github.io/Website/blog/Hacker" target="_blank" rel="noopener noreferrer">Gaining Admin rights on Windows 10 and 11</a>
+post to this 'penis'. Obsiously I closed the commit. So now the repository with the actual source is private and I changed what the button does. Go press it and find out. Why would you go to the effort of trying to make a push that would have deleted days of work (Years if you count finding this exploit) so please just don't vandalise. Anyway, that was all I wanted to say. Goodbye!</p>]]></content>
+        <author>
+            <name>MEGA-Dawg68</name>
+            <uri>https://github.com/MEGA-Dawg68</uri>
+        </author>
+        <category label="Update" term="Update"/>
+        <category label="vandalism" term="vandalism"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to bypass Admin Rights on a school computer]]></title>
         <id>https://mega-dawg68.github.io/Website/blog/Hacker</id>
